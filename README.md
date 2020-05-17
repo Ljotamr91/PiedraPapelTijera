@@ -13,3 +13,9 @@ Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
 
 5 añadimos todos los archivos al commit
     git add -A
+
+6 volvemos a comprobar el estado a ver si pasan de rojos a verdes
+    git status
+
+7 hacemos un commit con comentario archivos
+    
