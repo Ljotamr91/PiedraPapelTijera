@@ -30,4 +30,6 @@ function game(jugador1, jugador2){
             console.log('Gana Jugador jugador2');
         break;
 
-};
+    }
+}
+
