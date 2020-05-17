@@ -1,5 +1,5 @@
-# Plantilla_Front_2020
-Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
+# PiedraPapelTijera
+Ejercicio 3 Piedra, Papel, tijeras con condicionales para mostrar en consola
 
 1 clonamos el proyecto
 
@@ -25,3 +25,6 @@ Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
 
 9 subimos los cambios realizados 
     git push origin master
+
+X cada vez que queramos subir cambios miraremos el estado ,añadiremos los archivos que no esten en seguimiento, haremos commit y push 
+    como pone en los pasos 5, 6, 7 y 9
