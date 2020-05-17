@@ -18,4 +18,10 @@ Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
     git status
 
 7 hacemos un commit con comentario archivos
-    
+    git commit -m "comentario"
+
+8 añadimos el remote origin
+    git remote add origin enlace
+
+9 subimos los cambios realizados 
+    git push origin master
