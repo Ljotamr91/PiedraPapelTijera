@@ -4,6 +4,7 @@ Ejercicio 3 Piedra, Papel, tijeras con condicionales para mostrar en consola
 1 clonamos el proyecto
 
 2 eliminamos la carpeta .git oculta y cambiamos nombre de la carpeta del proyecto a la deseada 
+     rm -rf .git
 
 3 inicializamos el proyecto con git
     git init
